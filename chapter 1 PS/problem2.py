@@ -1,0 +1,1 @@
+# The question is to print the table of 5 using REPL

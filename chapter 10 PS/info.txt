@@ -1,0 +1,2 @@
+'company', 'name', 'language', salary
+('Microsoft', 'junaid', 'python', 85000)

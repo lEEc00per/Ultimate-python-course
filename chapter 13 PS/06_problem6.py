@@ -1,0 +1,1 @@
+# the problem just asks the user to make a new virtual evironment and run pip freeze for the system interpreter and take the contents and make another similar virtualenv.
